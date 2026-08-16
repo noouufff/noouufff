@@ -1,120 +1,122 @@
-<h1 align="center">Hi, I'm Nouf 👋</h1>
-
-<h3 align="center">🔐 Senior Cybersecurity Student | Security & Technology Enthusiast</h3>
-
-<p align="center">
-  Cybersecurity student at <b>Princess Nourah bint Abdulrahman University</b> in Riyadh, Saudi Arabia 🇸🇦
-</p>
-
-<p align="center">
-  Interested in cybersecurity, network security, artificial intelligence, security research, and developing practical solutions to real-world security challenges.
-</p>
-
----
-
-### 👩‍💻 About Me
-
-* 🎓 Senior Cybersecurity student at **Princess Nourah bint Abdulrahman University**
-* 🔐 Interested in **Cybersecurity, Network Security, and Threat Detection**
-* 🤖 Exploring the use of **Artificial Intelligence in Cybersecurity**
-* 🌐 Interested in **Network Protocols and Security**
-* 🔬 Experienced with academic cybersecurity projects and research
-* 📚 Continuously developing my technical and security skills
-
----
-
-### 🛠️ Technologies & Areas
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>
-  <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=hackthebox&logoColor=white" />
-  <img alt="Network Security" src="https://img.shields.io/badge/Network%20Security-0078D4?style=flat-square&logo=cisco&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+Welcome to my page! </br>
+I'm <b>Nouf</b>, a <b>Senior Cybersecurity Student</b> at 
+<b>Princess Nourah bint Abdulrahman University</b> in 
+<img src="https://cdn-icons-png.flaticon.com/512/197/197578.png" width="13"/> 
+<b>Riyadh, Saudi Arabia</b>.
 </p>
 
----
+<p>
+I'm interested in cybersecurity, network security, threat detection, artificial intelligence in cybersecurity, and security research.
+</p>
 
-### 🚀 Featured Projects
+<h3>Things I work with</h3>
+
+<p>
+  <img alt="Cybersecurity" src="https://img.shields.io/badge/-Cybersecurity-111111?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Network Security" src="https://img.shields.io/badge/-Network_Security-0078D4?style=flat-square&logo=cisco&logoColor=white" />
+  <img alt="Artificial Intelligence" src="https://img.shields.io/badge/-AI_in_Cybersecurity-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+</p>
+
+<h3>Projects & Research</h3>
 
 <table>
   <thead align="center">
     <tr>
-      <td><b>Project</b></td>
-      <td><b>Description</b></td>
-      <td><b>Area</b></td>
+      <td><b>🔐 Project</b></td>
+      <td><b>📚 Area</b></td>
+      <td><b>📝 Description</b></td>
     </tr>
   </thead>
 
   <tbody>
     <tr>
-      <td><b>🔎 Phishing URL Detection</b></td>
-      <td>
-        An AI-based cybersecurity project focused on detecting and classifying phishing URLs to help identify malicious websites.
-      </td>
+      <td><b>AI-Based Phishing URL Detection</b></td>
       <td>AI & Cybersecurity</td>
+      <td>
+        Developed a cybersecurity project focused on using artificial intelligence techniques to detect and classify phishing URLs.
+      </td>
     </tr>
 
 ```
 <tr>
-  <td><b>👁️ Biometric Iris Recognition</b></td>
+  <td><b>Biometric Iris Recognition</b></td>
+  <td>Biometric Security</td>
   <td>
-    A biometric security project exploring iris recognition as a method of identity verification and authentication.
+    Explored iris recognition as a biometric authentication method for secure identity verification.
   </td>
-  <td>Biometrics & Security</td>
 </tr>
 
 <tr>
-  <td><b>📧 IMAP Protocol Research</b></td>
+  <td><b>IMAP Protocol Research</b></td>
+  <td>Network Security</td>
   <td>
-    Research focused on the Internet Message Access Protocol (IMAP), including its architecture, operation, and security considerations.
+    Conducted research on the Internet Message Access Protocol (IMAP), including its architecture, functionality, and security considerations.
   </td>
-  <td>Network Protocols</td>
 </tr>
 ```
 
   </tbody>
 </table>
 
----
+<h3>Cybersecurity interests</h3>
 
-### 🎯 Areas of Interest
+<ul>
+  <li>
+    <b>🔐 Cybersecurity</b><br/>
+    <i>Exploring security concepts, technologies, and methods used to protect systems and information.</i>
+  </li>
 
-* 🔐 Cybersecurity
-* 🌐 Network Security
-* 🤖 AI in Cybersecurity
-* 🎣 Phishing Detection
-* 🛡️ Threat Detection
-* 👁️ Biometric Security
-* 🔍 Security Research
-* 📡 Network Protocols
+  <li>
+    <b>🌐 Network Security</b><br/>
+    <i>Interested in network protocols, secure communications, and protecting network infrastructure.</i>
+  </li>
 
----
+  <li>
+    <b>🤖 AI in Cybersecurity</b><br/>
+    <i>Exploring how artificial intelligence and machine learning can support cyber threat detection and security analysis.</i>
+  </li>
 
-### 📊 GitHub Stats
+  <li>
+    <b>🎣 Phishing Detection</b><br/>
+    <i>Interested in identifying malicious URLs, phishing attacks, and other social engineering threats.</i>
+  </li>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="Nouf's GitHub Stats" />
+  <li>
+    <b>👁️ Biometric Security</b><br/>
+    <i>Interested in biometric authentication technologies and secure identity verification.</i>
+  </li>
+
+  <li>
+    <b>🔍 Security Research</b><br/>
+    <i>Continuously learning and researching cybersecurity technologies, vulnerabilities, and security practices.</i>
+  </li>
+</ul>
+
+<h3>About my journey</h3>
+
+<p>
+As a <b>Senior Cybersecurity Student</b>, I am continuously developing my technical knowledge through academic projects, research, and hands-on learning.
+My goal is to strengthen my skills in cybersecurity and contribute to building secure and reliable systems.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+<h3>Where to find me</h3>
 
----
-
-### 📫 Connect With Me
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/nouf-alquhiadan-1621a3308" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building skills. Exploring security. Solving problems.</i>
+  <b>Thanks for visiting my profile!</b><br/>
+  <i>Always learning, exploring, and building in cybersecurity.</i>
 </p>
